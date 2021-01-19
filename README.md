@@ -1,2 +1,2 @@
 # MVC-PHP
-MVC Framework built using PHP OOP
+Simple MVC Framework built using PHP OOP for learning purposes
